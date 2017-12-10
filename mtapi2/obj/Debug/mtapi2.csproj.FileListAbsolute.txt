@@ -1,0 +1,9 @@
+c:\users\bonbon\source\repos\mtapi2\mtapi2\bin\Debug\mtapi2.exe.config
+c:\users\bonbon\source\repos\mtapi2\mtapi2\bin\Debug\mtapi2.exe
+c:\users\bonbon\source\repos\mtapi2\mtapi2\bin\Debug\mtapi2.pdb
+c:\users\bonbon\source\repos\mtapi2\mtapi2\bin\Debug\MtApi.dll
+c:\users\bonbon\source\repos\mtapi2\mtapi2\bin\Debug\Newtonsoft.Json.dll
+c:\users\bonbon\source\repos\mtapi2\mtapi2\obj\Debug\mtapi2.csproj.CoreCompileInputs.cache
+c:\users\bonbon\source\repos\mtapi2\mtapi2\obj\Debug\mtapi2.exe
+c:\users\bonbon\source\repos\mtapi2\mtapi2\obj\Debug\mtapi2.pdb
+c:\users\bonbon\source\repos\mtapi2\mtapi2\obj\Debug\mtapi2.csprojResolveAssemblyReference.cache
