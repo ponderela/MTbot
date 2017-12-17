@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using Newtonsoft;
 using System.Drawing;
 using System.Drawing.Imaging;
 using System.Windows.Forms;
@@ -65,7 +65,7 @@ namespace MT4bot
                         {
                            if (col.G == 255 && col.B == 0 && col.R == 0)
                             {
-                            state = "G";
+                            state = "B";
                             //Console.WriteLine("*******Found blue dot at {0},{1}", x, y);
                             //Console.WriteLine("Color value (RGB) {0},{1},{2}", col.R, col.G, col.B);
                             //Console.Beep();
@@ -74,7 +74,7 @@ namespace MT4bot
                             }
                             if (col.R == 0 && col.B ==100 && col.G == 100)
                             {
-                            state = "P";
+                            state = "S";
                             //Console.WriteLine("******Found red dot at {0},{1}", x, y);
                             //Console.WriteLine("Color value (RGB) {0},{1},{2}", col.R, col.G, col.B);
                             //Console.Beep();

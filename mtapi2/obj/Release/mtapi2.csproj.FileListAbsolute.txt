@@ -7,3 +7,11 @@ c:\users\bonbon\source\repos\mtapi2\mtapi2\obj\Release\mtapi2.csproj.CoreCompile
 c:\users\bonbon\source\repos\mtapi2\mtapi2\obj\Release\mtapi2.exe
 c:\users\bonbon\source\repos\mtapi2\mtapi2\obj\Release\mtapi2.pdb
 c:\users\bonbon\source\repos\mtapi2\mtapi2\obj\Release\mtapi2.csprojResolveAssemblyReference.cache
+D:\workspace\dotnet\MTbot\mtapi2\obj\Release\mtapi2.csproj.CoreCompileInputs.cache
+D:\workspace\dotnet\MTbot\mtapi2\obj\Release\mtapi2.exe
+D:\workspace\dotnet\MTbot\mtapi2\obj\Release\mtapi2.pdb
+D:\workspace\dotnet\MTbot\mtapi2\bin\Release\mtapi2.exe.config
+D:\workspace\dotnet\MTbot\mtapi2\bin\Release\mtapi2.exe
+D:\workspace\dotnet\MTbot\mtapi2\bin\Release\mtapi2.pdb
+D:\workspace\dotnet\MTbot\mtapi2\bin\Release\MtApi.dll
+D:\workspace\dotnet\MTbot\mtapi2\bin\Release\Newtonsoft.Json.dll
